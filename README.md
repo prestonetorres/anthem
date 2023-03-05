@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Anthem App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/prestonetorres/anthem/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/prestonetorres/anthem/tree/main)
 
 ## Available Scripts
 
