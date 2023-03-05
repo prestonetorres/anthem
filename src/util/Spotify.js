@@ -1,6 +1,6 @@
 let accessToken;
 const clientId = '0cfdc975cb134b55824bb831829b4f2a';
-const redirectUri =  process.env.TERM_PROGRAM == 'vscode' ? 'http://localhost:3000' : 'https://prestonetorres.github.io/anthem/'; 
+const redirectUri =  process.env.TERM_PROGRAM === 'vscode' ? 'http://localhost:3000' : 'https://prestonetorres.github.io/anthem/';
 
 const Spotify = {
     getAccessToken(){
