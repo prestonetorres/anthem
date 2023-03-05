@@ -1,6 +1,6 @@
 # Getting Started with Anthem App
 
-[![anthem-test](https://circleci.com/gh/prestonetorres/anthem.svg?style=svg)](https://github.com/prestonetorres/anthem)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/prestonetorres/anthem/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/prestonetorres/anthem/tree/main)
 
 ## Available Scripts
 
